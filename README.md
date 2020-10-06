@@ -3,7 +3,7 @@
 This repository contains the source code for verifying the distinguishers presented in the paper "Rotational Cryptanalysis From a Differential-Linear Perspective".
 
 ## 32-bit-modular-gurobi-rot.py 
-  + Find the optimal input difference pattern for 32-bit modular addition with gurobipy
+  + Find the optimal input difference pattern for 32-bit modular addition with gurobipy\\
   + Dependencies: gurobi, gurobipy
   
 ## alzette_box.cpp
